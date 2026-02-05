@@ -22,7 +22,7 @@ bash scripts/confident/run_eval_math_torl.sh
 
 ## Cheatsheet
 
-| Model | Prompt |
+| Model | Prompt Type|
 |:-----:|:------:|
 |   Qwen2.5-Math-7B-Instruct   |  `qwen-torl`      |
 |   ToRL-7B  |  `torl`      |
